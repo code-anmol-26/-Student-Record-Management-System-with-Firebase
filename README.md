@@ -2,6 +2,26 @@
 
 A Java console application that manages student records using Firebase Realtime Database.
 
+## Screenshots
+
+### Main Menu
+![Main Menu](images/main_menu.png)
+
+### Adding a Student
+![Add Student](images/add_student.png)
+
+### Viewing All Students
+![View Students](images/view_students.png)
+
+### Searching Students
+![Search Student](images/search_student.png)
+
+### Updating Student Details
+![Update Student](images/update_student.png)
+
+### Deleting a Student
+![Delete Student](images/delete_student.png)
+
 ## Project Structure
 
 ```
